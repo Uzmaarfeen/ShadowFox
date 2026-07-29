@@ -115,10 +115,6 @@ pip install pandas numpy matplotlib seaborn plotly
 
 ## 📬 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin/
-
-GitHub: https://github.com/your-username
-
----
+LinkedIn: https://www.linkedin.com/in/uzma-arfeen-ab5629319/
 
 ⭐ Thank you for visiting this repository!

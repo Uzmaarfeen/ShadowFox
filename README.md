@@ -11,7 +11,7 @@ This repository contains all the projects and tasks completed during my internsh
 
 **Name:** Uzma Arfeen
 
-🎓 B.Tech Computer Science Engineering (AI & ML)
+🎓 B.Tech Computer Science Engineering 
 
 📍 Manav Rachna International Institute of Research and Studies
 
